@@ -10,7 +10,7 @@
     "clear": "Limpar",
     "sameAsShipping": "Meu endereço de entrega é o mesmo da correspondencia",
     "shippingMethod": {
-      "title": "Meotodo de Envio",
+      "title": "Metodo de Envio",
       "free": "Gratuito (Data estimada de entrega 5-7 dias)",
       "express": "Express (Data estimada de entrega 3-5 dias)",
       "nextDay": "Proximo Dia"
