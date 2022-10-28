@@ -1,7 +1,7 @@
 {
   "checkout": {
     "delivery": "Delivery",
-    "payment": "Payment",
+    "payment": "Pagamento",
     "confirmation": "Confirmation",
     "shippingAddress": "Shipping Address",
     "billingAddress": "Billing Address",
